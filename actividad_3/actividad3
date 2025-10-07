@@ -13,15 +13,14 @@
 
     <h2>Íbdice de Contenidos</h2>
     <ol type="A">
-        <a href="#">  Componentes Clave de un PC (Hardware)</a>
-        <a href="#"
+        <a href="#">Componentes Clave de un PC (Hardware)</a>
+        <a href="#">5 Consejos de Ciberseguridad Básica </a>
     </ol>
 </body>
 
 </html>
 
- #5 Consejos de
-#Ciberseguridad Básica Componentes Clave de un PC (Hardware) El hardware es el núcleo del sistema. Aquí están los
+ # Componentes Clave de un PC (Hardware) El hardware es el núcleo del sistema. Aquí están los
 #elementos esenciales para que un equipo microinformático funcione correctamente: Unidad de estado sólido (SSD) moderna
 #*(Imagen: Un disco SSD, un componente vital para el almacenamiento actual)* Lista de Componentes Principales: CPU
 #(Unidad Central de Procesamiento): El "cerebro" del ordenador. Núcleos de Rendimiento (P-cores): Para tareas intensivas.
