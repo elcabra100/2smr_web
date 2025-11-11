@@ -69,8 +69,12 @@ h1, .subtitulo {
 /* TAREA 4.1: Pseudo-Clase :hover
    Selecciona todos los enlaces <a> y cambia su color de texto a rojo (#e74c3c) cuando 
    el ratón pase por encima (:hover). */
-
-
+a:hover {
+   color: #e74c3c;
+   font-size: ;
+   text-decoration: ;
+} 
+a:visited
 /* TAREA 4.2: Selectores de Atributo (OPCIONAL/AVANZADO)
    Selecciona el enlace <a> que NO tenga la clase "enlace-secundario" y aplica un padding 
    de 5px y un color de fondo gris claro (#ddd). */
