@@ -39,7 +39,7 @@ h2 {
    Aplica un color de fuente naranja (#e67e22) a los elementos <h1> y .subtitulo. 
    (Deben ir en la misma regla CSS). */
 
-h1 .subtitulo{
+h1, .subtitulo {
    color: #e67e22;
 }
 /* TAREA 2.2: Selector Descendente
