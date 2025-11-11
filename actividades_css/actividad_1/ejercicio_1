@@ -12,7 +12,7 @@
 <body>
     <h1>HTML 5 y CSS 3</h1>
     <h2>HTML 5</h2>
-    <img src="img/html5-logo.svg" alt="Logo HTML 5" width="106" height="150">
+    <img src="img\html5-logo.svg" alt="Logo HTML 5" width="106" height="150">
     <p>El <span class="spanrojo">28 de octubre de 2014</span> se aprobó la <b><span class="fondoblanco">Recomendación HTML 5</span></b>,
         culminando así diez años de trabajo. En 2004 se formó el WHATWG,
         un grupo informal de individuos y empresas decididos a impulsar el
