@@ -71,10 +71,10 @@ h1, .subtitulo {
    el ratón pase por encima (:hover). */
 a:hover {
    color: #e74c3c;
-   font-size: ;
-   text-decoration: ;
+   font-size: 150€;
+   text-decoration:underline ;
 } 
-a:visited
+
 /* TAREA 4.2: Selectores de Atributo (OPCIONAL/AVANZADO)
    Selecciona el enlace <a> que NO tenga la clase "enlace-secundario" y aplica un padding 
    de 5px y un color de fondo gris claro (#ddd). */
