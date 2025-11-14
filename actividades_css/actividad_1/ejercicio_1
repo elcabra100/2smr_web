@@ -25,7 +25,7 @@
         se aprobó la recomendación HTML 5.2 y el W3C prepara el HTML 5.3 para finales de 2018.</p>
 
     <h2>CSS 3</h2>
-    <img src="imagenes/css3-logo.svg" alt="Logo CSS 3" width="106" height="150">
+    <img src="/img/css3-logo.svg" alt="Logo CSS 3" width="106" height="150">
     <p>Desde la aprobación de CSS 2 en 1998, el W3C ha estado trabajando en la siguiente
         generación de las hojas de estilo, las CSS 3. Las <b><span class="fondoblanco">Recomendaciones CSS 3</span></b>
         se planificaron como un conjunto de recomendaciones en vez de como un documento único.
