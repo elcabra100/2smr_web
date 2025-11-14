@@ -1,18 +1,21 @@
-.caja1{
-margin: 2%;
-background-color: #32f800;
-padding: 20px;
-border: 10px solid #f800d7;
-width: 40%;
-text-align: justify;
-
-
+.caja1 {
+    margin: 2%;
+    background-color: #32f800;
+    padding: 20px;
+    border: 10px solid #f800d7;
+    width: 40%;
+    text-align: justify;
 }
 
-.caja2{
-  border: 10px solid #001aff 10px50px;  
+.caja2 {
+    margin: 2%;
+    border: 3px dashed #001aff ;
+    background-color: #00f8d7;
+    border-radius: 10px 50px;
+    text-align: justify;
+    width: 40%;
+    padding: 20px;
+    box-shadow: 5px 9px 3pc gray;
 }
 
-.caja3{
-    
-}
+.caja3 {}
