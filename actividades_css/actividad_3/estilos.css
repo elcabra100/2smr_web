@@ -2,7 +2,11 @@
 margin: 2%;
 background-color: #32f800;
 padding: 20px;
-border: ;
+border: 10px solid #f800d7;
+width: 40%;
+text-align: justify;
+
+
 }
 
 .caja2{
